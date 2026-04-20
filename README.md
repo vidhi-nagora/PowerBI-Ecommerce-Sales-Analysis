@@ -72,10 +72,10 @@ This dashboard helps in understanding overall business performance, identifying 
 ## Dashboard Preview
 
 ### Revenue Insights
-https://github.com/vidhi-nagora/Ecommerce-Sales-Analysis/blob/main/revenue.png
+![Revenue Dashboard](revenue.png)
 
 ### Customer Insights
-https://github.com/vidhi-nagora/Ecommerce-Sales-Analysis/blob/main/customer_insights.png
+![Customer Insights](customer_insights.png)
 
 ### Cancellation Insights
-https://github.com/vidhi-nagora/Ecommerce-Sales-Analysis/blob/main/cancellation_insights.png
+![Cancellation Insights](cancellation_insights.png)
