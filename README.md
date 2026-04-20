@@ -1,11 +1,11 @@
 # Power BI E-commerce Sales Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project presents an interactive Power BI dashboard built on an e-commerce dataset. It focuses on analyzing sales performance, customer behavior, and order cancellations to uncover meaningful business insights.
 
 ---
 
-## 📊 Dashboard Sections
+## Dashboard Sections
 
 ### 1. Revenue Insights
 - Total Revenue, Total Orders, and Average Order Value
@@ -30,7 +30,7 @@ This project presents an interactive Power BI dashboard built on an e-commerce d
 
 ---
 
-## 📁 Dataset
+## Dataset
 - E-commerce orders dataset used for analysis  
 - Includes:
   - Order details  
@@ -40,7 +40,7 @@ This project presents an interactive Power BI dashboard built on an e-commerce d
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning & Transformation (Power Query)
 - Data Modeling
 - DAX Calculations (KPIs, Measures)
@@ -49,14 +49,14 @@ This project presents an interactive Power BI dashboard built on an e-commerce d
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - Power BI
 - DAX
 - Power Query
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 - Certain product categories contribute significantly to lost revenue due to cancellations  
 - High-value customers drive a large portion of total revenue  
 - Sales show variation across states, highlighting regional performance differences  
@@ -64,5 +64,12 @@ This project presents an interactive Power BI dashboard built on an e-commerce d
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 This dashboard helps in understanding overall business performance, identifying problem areas like cancellations, and supporting data-driven decision-making for improving revenue and customer experience.
+
+---
+
+## Dashboard Preview
+https://github.com/vidhi-nagora/Ecommerce-Sales-Analysis/blob/main/revenue.png
+https://github.com/vidhi-nagora/Ecommerce-Sales-Analysis/blob/main/customer_insights.png
+https://github.com/vidhi-nagora/Ecommerce-Sales-Analysis/blob/main/cancellation_insights.png
